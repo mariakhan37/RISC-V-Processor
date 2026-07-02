@@ -8,8 +8,10 @@ Three programs are included:
 1) Countdown: Reads a value from switches, displays it on LEDs, and counts down to zero using a function call with proper stack management
 Waiting for switch input
 <img width="501" height="287" alt="image" src="https://github.com/user-attachments/assets/53364210-873a-428d-9667-cc6acbf8e1ae" />
+
 Countdown execution in progress
 <img width="465" height="296" alt="image" src="https://github.com/user-attachments/assets/c1b17709-68a7-4a88-b7a3-7d6a7ba9f384" />
+
 Updated countdown output on the 7-segment display
 <img width="645" height="376" alt="image" src="https://github.com/user-attachments/assets/a9ec3ccb-6f7d-4162-ae9a-3116a94fd036" />
 
