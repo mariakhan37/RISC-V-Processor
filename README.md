@@ -30,19 +30,22 @@ Tests SLTI, SRA, and BLT instructions with known values and verifies output on L
 ---
 
 ### 3. Fibonacci
-Generates the first 6 Fibonacci numbers (0, 1, 1, 2, 3, 5) and displays each in binary on the LED bank.
+Generates the first 5 Fibonacci numbers (0, 1, 1, 2, 3) and displays each in binary on the LED bank.
 
 *n=1: output = 0*
 <img width="553" alt="Fibonacci 0" src="https://github.com/user-attachments/assets/9174eaac-3c76-4609-901e-7c65dbb45822" />
 
 *n=2: output = 1*
-<img width="670" alt="Fibonacci 1" src="https://github.com/user-attachments/assets/0bdcefc8-8fdc-4ace-b810-0a7abeff4922" />
+<img width="533" alt="Fibonacci 1" src="https://github.com/user-attachments/assets/0bdcefc8-8fdc-4ace-b810-0a7abeff4922" />
 
-*n=3: output = 2*
-<img width="660" alt="Fibonacci 1" src="https://github.com/user-attachments/assets/78739827-9c2b-4b9b-b2c6-455da1ad2ba4" />
+*n=3: output = 1*
+<img width="726" height="470" alt="image" src="https://github.com/user-attachments/assets/fc15348a-080a-40e4-90e3-217833a4f4f6" />
+
+*n=4: output = 2*
+<img width="533" alt="Fibonacci 1" src="https://github.com/user-attachments/assets/78739827-9c2b-4b9b-b2c6-455da1ad2ba4" />
 
 *n=4: output = 3*
-<img width="760" alt="Fibonacci 2" src="https://github.com/user-attachments/assets/c1435e7b-b01a-4751-b4f5-16ea2d84f8e5" />
+<img width="533" alt="Fibonacci 2" src="https://github.com/user-attachments/assets/c1435e7b-b01a-4751-b4f5-16ea2d84f8e5" />
 ---
 
 ## Supported Instructions
