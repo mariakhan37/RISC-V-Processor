@@ -38,10 +38,10 @@ Generates the first 6 Fibonacci numbers (0, 1, 1, 2, 3, 5) and displays each in 
 *n=2: output = 1*
 <img width="670" alt="Fibonacci 1" src="https://github.com/user-attachments/assets/0bdcefc8-8fdc-4ace-b810-0a7abeff4922" />
 
-*n=3: output = 1*
+*n=3: output = 2*
 <img width="660" alt="Fibonacci 1" src="https://github.com/user-attachments/assets/78739827-9c2b-4b9b-b2c6-455da1ad2ba4" />
 
-*n=4: output = 2*
+*n=4: output = 3*
 <img width="760" alt="Fibonacci 2" src="https://github.com/user-attachments/assets/c1435e7b-b01a-4751-b4f5-16ea2d84f8e5" />
 ---
 
